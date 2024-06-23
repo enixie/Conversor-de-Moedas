@@ -6,15 +6,15 @@ Um conversor de moedas simples que permite aos usuários converter valores em re
 
 ### HTML Estruturado e Semântico
 
-Utilizamos HTML semântico para estruturar claramente o conteúdo da página. Elementos como `<header>`, `<main>`, `<form>`, e `<footer>` foram utilizados para garantir uma estrutura organizada e acessível.
+Foi utilizado HTML semântico para estruturar claramente o conteúdo da página. Elementos como `<header>`, `<main>`, `<form>`, e `<footer>` foram utilizados para garantir uma estrutura organizada e acessível.
 
 ### Estilização com CSS Moderno
 
-O CSS foi aplicado de forma eficiente para estilizar todos os elementos da interface do usuário. Utilizamos seletores, classes e IDs para aplicar estilos consistentes e responsivos em diferentes dispositivos.
+O CSS foi aplicado de forma eficiente para estilizar todos os elementos da interface do usuário. Utilizei seletores, classes e IDs para aplicar estilos consistentes e responsivos em diferentes dispositivos.
 
 ### JavaScript para Funcionalidade Interativa
 
-O JavaScript foi essencial para adicionar funcionalidades interativas ao formulário de conversão. Utilizamos eventos de formulário (`submit`) e manipulação do DOM para capturar inputs do usuário, processar cálculos de conversão e exibir resultados dinâmicos na página.
+O JavaScript foi essencial para adicionar funcionalidades interativas ao formulário de conversão. Utilizei eventos de formulário (`submit`) e manipulação do DOM para capturar inputs do usuário, processar cálculos de conversão e exibir resultados dinâmicos na página.
 
 ### Animações com CSS e JavaScript
 
