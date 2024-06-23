@@ -31,9 +31,3 @@ Para utilizar o **DevConverter**:
 3. Clique em "Converter" para ver o resultado da conversão.
 
 Explore, experimente e adapte conforme suas necessidades! Este projeto está aberto para contribuições e melhorias contínuas.
-
----
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](#), garantindo liberdade para uso, modificação e distribuição, com ou sem modificações.
